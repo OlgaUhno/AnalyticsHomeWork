@@ -49,7 +49,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 
-    private fun login() = analyticsManager.setUserId("Test User")
+    private fun login() = analyticsManager.setUserId("34532198")
 
     private fun logout() = analyticsManager.setUserId(null)
 
