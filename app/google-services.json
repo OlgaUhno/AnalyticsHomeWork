@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527689496673",
+    "project_id": "test-fa14a",
+    "storage_bucket": "test-fa14a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527689496673:android:f3d26980d0d4d435641220",
+        "android_client_info": {
+          "package_name": "ru.homework.analyticshomework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527689496673-k4ujfe067ikosh2rqc3qnlvsrc615gok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdtVmMpKOmJ6g6_ZE4cFL_29H6JfaexIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527689496673-k4ujfe067ikosh2rqc3qnlvsrc615gok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnalyticsHomeWork</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="send_event">Send Event</string>
+    <string name="simulate_crash">Simulate Crash</string>
+</resources>
