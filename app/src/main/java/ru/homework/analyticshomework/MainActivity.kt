@@ -51,7 +51,7 @@ class MainActivity : ComponentActivity() {
 
     private fun login() = analyticsManager.setUserId("34532198")
 
-    private fun logout() = analyticsManager.setUserId(null)
+    private fun logout() = analyticsManager.setUserId("")
 
     private fun sendEvent() = analyticsManager.sendEvent(AppAnalyticsEvents.BUTTON_PRESSED)
 
